@@ -1,0 +1,14 @@
+# venv
+.venv/
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+# env
+.env
+# OS
+.DS_Store
+# VS Code
+.vscode/
